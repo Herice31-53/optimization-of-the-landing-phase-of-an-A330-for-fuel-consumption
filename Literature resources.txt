@@ -1,0 +1,7 @@
+﻿Optimization reducing fuel consumption for rocket landing 
+https://ieeexplore.ieee.org/document/8483147/
+https://arc.aiaa.org/doi/full/10.2514/1.G003518
+
+
+SpringerBook with flight mechanics (e.g. simplified equations)
+https://link.springer.com/book/10.1007/978-3-540-46573-7
